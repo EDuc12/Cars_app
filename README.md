@@ -1,1 +1,1 @@
-# Cars_app
+Cars_app is an React app, which allows you to add cars set their prices, remove them and search car by their names . If you add a new car app bold cars which have same name than car which you want to add. App counts all the prices, if you search a car it count a value of result cars
